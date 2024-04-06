@@ -1,4 +1,4 @@
-# Bowling Game Simulator
+# Bowling Game Scoreboard
 
 This project simulates a [ten-pin bowling](http://www.balmoralsoftware.com/bowling/bowling.htm) game according to traditional scoring rules. It's written in C# and demonstrates object-oriented programming principles, exception handling, and unit testing with NUnit.
 
