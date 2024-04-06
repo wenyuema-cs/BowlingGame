@@ -37,6 +37,7 @@ dotnet run --project BowlingGame
 ```
 
 - Output supposed to get
+
 ![](results.jpg)
 
 
