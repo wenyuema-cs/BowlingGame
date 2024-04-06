@@ -9,7 +9,7 @@ This project simulates a [ten-pin bowling](http://www.balmoralsoftware.com/bowli
 - Console output as scoreboard for each roll's result (strike, spare, open frame) and current score.
 - Support for perfect games and gutter games with special end messages.
 - Unit tests covering various game scenarios.
-- 
+
 ## UML Class Diagram
 ![](composition.png)
 
