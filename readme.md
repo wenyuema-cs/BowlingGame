@@ -11,26 +11,45 @@ This project simulates a [ten-pin bowling](http://www.balmoralsoftware.com/bowli
 - Support for perfect games and gutter games with special end messages.
 - Unit tests covering various game scenarios.
 ## UML Class Diagram
-![](composition.jpeg)
+![](composition.png)
 
 ## Getting Started
 
 ### Prerequisites
 
-- .NET 5.0 SDK or later
-- NUnit 3 for unit testing
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) or later
+- NUnit 3.13.3 
+- NUnit.Analyzer 3.6.1
+- NUnit3TestAdapter 4.2.1 for unit testing
 
 ### Installation
 
-Clone the repository to your local machine:
+- Clone the repository to your local machine:
    ```bash
    git clone https://github.com/wenyuema-cs/BowlingGame.git
    ```
 
 ### Implement
-Build the project and run the bowling game smulator
+- Build the project and run the bowling game smulator
 ```
 dotnet build
 dotnet run --project BowlingGame
 ```
+
+- Output supposed to get
+![](results.jpg)
+
+
+## Unit Test
+
+### Catalog
+
+![](unittest_log.jpg)
+
+### Terminal
+- a perfect game as an example
+```angular2html
+dotnet test
+```
+![](unittest.jpg)
 
