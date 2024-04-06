@@ -24,19 +24,19 @@ This project simulates a [ten-pin bowling](http://www.balmoralsoftware.com/bowli
 
 ### Installation
 
-- Clone the repository to your local machine:
+- Clone the repository to your local:
    ```bash
    git clone https://github.com/wenyuema-cs/BowlingGame.git
    ```
 
 ### Implement
-- Build the project and run the bowling game smulator
+- Build the project and run the bowling game:
 ```
 dotnet build
 dotnet run --project BowlingGame
 ```
 
-- Output supposed to get
+- Output supposed as
 
 ![](results.jpg)
 
@@ -48,7 +48,7 @@ dotnet run --project BowlingGame
 ![](unittest_log.jpg)
 
 ### Terminal
-- a perfect game as an example
+- Perfect game as an example:
 ```angular2html
 dotnet test
 ```
