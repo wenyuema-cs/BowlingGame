@@ -5,11 +5,11 @@ This project simulates a [ten-pin bowling](http://www.balmoralsoftware.com/bowli
 ## Features
 
 - Simulate rolling in a ten-pin bowling game.
-- Calculation of scores including strikes, spares, and open frames.
-- Special handling for the 10th frame according to official bowling rules.
-- Console output for each roll's result (strike, spare, open frame) and current score.
+- Provide two gaming way 1) strike one after one 2)handling for the 10th frame all at once.
+- Console output as scoreboard for each roll's result (strike, spare, open frame) and current score.
 - Support for perfect games and gutter games with special end messages.
 - Unit tests covering various game scenarios.
+- 
 ## UML Class Diagram
 ![](composition.png)
 
