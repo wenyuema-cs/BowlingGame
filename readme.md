@@ -24,10 +24,10 @@ This project simulates a ten-pin bowling game according to traditional scoring r
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://yourrepositoryurl.com
+   git clone  https://github.com/wenyuema-cs/BowlingGame.git
 
 ### Run
-Build the project and run the bowling game smulator
+Build the project and run the bowling game simulator
 ```
 dotnet build
 dotnet run --project BowlingGame
