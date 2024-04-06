@@ -1,0 +1,14 @@
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfoInputs.cache
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.AssemblyInfo.cs
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.csproj.CoreCompileInputs.cache
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/bin/Debug/net8.0/BowlingGame
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/bin/Debug/net8.0/BowlingGame.deps.json
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/bin/Debug/net8.0/BowlingGame.runtimeconfig.json
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/bin/Debug/net8.0/BowlingGame.dll
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/bin/Debug/net8.0/BowlingGame.pdb
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.dll
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/refint/BowlingGame.dll
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.pdb
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/BowlingGame.genruntimeconfig.cache
+/Users/vannama/Library/CloudStorage/OneDrive-AarhusUniversitet/project/BowlingFun/BowlingGame/BowlingGame/obj/Debug/net8.0/ref/BowlingGame.dll
